@@ -1,0 +1,2 @@
+lib/libv4l2.so.0  lib/libv4l2util.so  lib/libv4lconvert.so.0
+

@@ -1,0 +1,635 @@
+"Please Put Paper"
+"कृपया कागज डालें."
+
+"Please Enter RC Number"
+"कृपया कार्ड नंबर दर्ज करें."
+
+"Please enter 12 digit uid number "
+"कृपया 12 अंक यूआईडी नंबर दर्ज करें."
+
+"Invalid UID"
+"अमान्य यूआईडी."
+
+"Offline Data Uploading Failed\nPlease Try again .."
+"ऑफ़लाइन डेटा अपलोडिंग विफल हुई \n कृपया पुनः प्रयास करें .."
+
+"Offline Data Uploading Failed\nPlease Try again .."
+"ऑफ़लाइन डेटा अपलोडिंग विफल हुई \n कृपया पुनः प्रयास करें .."
+
+"Members Details Not Found For The Card"
+"कार्ड के लिए सदस्यों का विवरण नहीं मिला."
+
+"UID Already Seeded"
+"आधार कार्ड से पहले ही जोड़ा गया है."
+
+"Please accept consent form"
+"कृपया सहमति प्रपत्र स्वीकार करें"
+
+"Transaction linked to dealer"
+
+"UID is Not Present...\nPlease seed the UID using UID seeding..."
+"UID मौजूद नहीं है ... \nकृपया UID सीडिंग का उपयोग करके UID को सीड करें ..."
+
+"UID is Not Present...\nPlease Select Other Member"
+"UID मौजूद नहीं है ... \n कृपया अन्य सदस्य का चयन करें"
+
+"Transaction linked to Manual"
+
+"please enter 10 Digit Mobile Number only"
+"कृपया केवल 10 अंकों का\n मोबाइल नंबर दर्ज करें."
+
+"please enter numeric value only"
+"कृपया केवल संख्यात्मक मूल्य दर्ज करें."
+
+"please enter 10 Digit Mobile Number only"
+"कृपया केवल 10 अंकों का\n मोबाइल नंबर दर्ज करें."
+
+"UID is Not Present...\nPlease Select Other Member"
+"UID मौजूद नहीं है ... \n कृपया अन्य सदस्य का चयन करें"
+
+"UID is Not Present...\nPlease seed the UID using UID seeding..."
+"UID मौजूद नहीं है ... \nकृपया UID सीडिंग का उपयोग करके UID को सीड करें ..."
+
+"Transaction linked to dealer"
+"यूआईडी उपलब्ध नहीं है \n लेन-देन डीलर से जुड़ा है "
+
+"Transaction linked to dealer"
+"यूआईडी उपलब्ध नहीं है \n लेन-देन डीलर से जुड़ा है "
+
+"Manual Transaction not allowd for this Beneficiary"
+"इस लाभार्थी के लिए मैनुअल लेनदेन की अनुमति नहीं है"
+
+"Transaction linked to dealer"
+"यूआईडी उपलब्ध नहीं है \n लेन-देन डीलर से जुड़ा है "
+
+"please enter 10 Digit Mobile Number only"
+"कृपया केवल 10 अंकों का\n मोबाइल नंबर दर्ज करें."
+
+"please enter numeric value only"
+"कृपया केवल संख्यात्मक मूल्य दर्ज करें."
+
+"please enter 10 Digit Mobile Number only"
+"कृपया केवल 10 अंकों का\n मोबाइल नंबर दर्ज करें."
+
+"Please Select Any Commodity For Issuance"
+"वितरित किए जाने वाले \nकिसी भी उत्पाद का चयन करें."
+
+"Please Select Any Commodity For Issuance"
+"वितरित किए जाने वाले किसी\n भी वस्तु का चयन करें"
+
+"Please Enter required Qty less than or equal to %s",SurveyMinQty.toAscii.data // no hindi msg
+
+"Please Put Paper"
+"कृपया कागज डालें."
+
+"Unable To Print Recipt due to Low Battery. \n Please charge the Battery"
+"कम बैटरी के कारण रसीद को प्रिंट करने में असमर्थ. \n अपनी बैटरी चार्ज करें"
+
+"InvalID Response Parsing" // no hindi msg
+
+"Please Select Other Mode of Communication"
+"कृपया कम्युनिकेशन के अन्य मोड का चयन करें"
+
+"Invalid Weight..."
+"कृपया वस्तु का चयन करे"
+
+"USB Port Opening Failed...\nPlease Select Other Mode of Communication..."
+"यूएसबी पोर्ट ओपनिंग विफल...\nकृपया कम्युनिकेशन के अन्य मोड का चयन करें"
+
+"Please Enter the %s Qty greater than or equal to %s",name.toAscii.data,MinQtyStr.atrow.toAscii.data
+
+"Enter the Quantity greater than zero"
+"कृपया शून्य से बड़ा दर्ज करें."
+
+"Please Issue Commodity upto Bal Qty only"
+"कृपया केवल शेष राशि \nतक कमोडिटी जारी करें"
+
+"Issue quantity should more than or equal to Minimum quantity : %s", ui->tblCommIssue->itemrow,9->text.toAscii.data
+                            
+"इश्यू की मात्रा न्यूनतम मात्रा से अधिक या उसके बराबर होनी चाहिए: %s", ui->tblCommIssue->itemrow,9->text.toAscii.data
+
+"please take all quantity"// no hindi msg
+
+"Please Issue Commodity upto Closing Balance only\nClosing Balance : %0.2f", fdb_ClosingBal
+"कृपया केवल समापन शेष तक अंक कमोडिटी जारी करें: \n शेष राशि: %0.2f", fdb_ClosingBal
+
+"Issue Qty Should Be Multiple By Minimum Qty - %0.3f",b
+"कृपया शून्य से अधिक मात्रा दर्ज करें - %0.3f",b
+
+"Please Select Dealer/Nominee"
+"कृपया डीलर/नॉमिनी  का चयन करें "
+
+"Please Select Dealer/Nominee"
+"कृपया डीलर/नॉमिनी  का चयन करें "
+
+"UID is Not Present...\nPlease Select Other Member"
+"UID मौजूद नहीं है ... \nकृपया अन्य सदस्य का चयन करें"
+
+"Exceeded Attempts for Iris Authentication...\nPlease Opt for Scan-FP"
+"आईरिस प्रमाणीकरण के लिए अधिक प्रयास हुए\nकृपया स्कैन-एफपी चुनें"
+
+"Invalid Dealer type..."
+"अमान्य डीलर"
+
+"Entered Wrong Password..."
+"गलत पासवर्ड दर्ज किया गया"
+
+"Enter Correct Password ..."
+"सही पासवर्ड दर्ज करें"
+
+"Session Id not found\nPlease try again"
+"सेशन आईडी नहीं मिला \nकृपया पुन: प्रयास करें"
+
+"Please Select Dealer/Nominee"
+"कृपया डीलर/नॉमिनी  का चयन करें."
+
+"UID is Empty...\nPlease Select Other Member"
+"UID रिक्त है ...\n कृपया अन्य सदस्य का चयन करें"
+
+"Finger Not Placed On Scanner..."
+"फिंगर स्कैनर पर रखा नहीं"
+
+"No Response From Server...\nPlease Try Again"
+"सर्वर प्रतिसाद नहीं दे रहा है\nकृपया पुन: प्रयास करें"
+
+"Server is Busy...\nPlease Try Again..."
+"सर्वर व्यस्त है ...\nकृपया पुनः प्रयास करें .."
+
+// no hindi msg
+"String index out of range - Invalid Response"
+"Server is Not Active"
+"404 Not Found"
+"Server error - Invalid Response"
+"Please Call PMU"
+"Server is Not Active"
+"Please Call PMU"
+UID_Status
+UID_Status
+"Incorrect XML"
+// no hindi msg
+
+"Finger Not Placed on Scanner"
+"उंगली स्कैनर पर रखी नहीं"
+
+"Invalid Response...\nPlease Try Again..."
+
+"अमान्य प्रतिक्रिया\n कृपया पुन: प्रयास करें."
+"Invalid Response...\nPlease Try Again..."
+
+
+"Request Timeout. Please Try again.."
+"समय में अनुरोध का कोई प्रतिक्रिया नहीं मिला\nकृपया पुन: प्रयास करें"
+
+"Request Timeout. Please Try again.."
+"समय में अनुरोध का कोई प्रतिक्रिया नहीं मिला\nकृपया पुन: प्रयास करें"
+
+"Server Connection Error...\nPlease Try Again After SomeTime..."
+"नेटवर्क त्रुटि ... \n कृपया कुछ समय के बाद पुन: प्रयास करें ..."
+
+"Please download Bank Master Data From Settings"// no hindi msg
+
+"Please download Beneficiary Master Data From Settings"
+"कृपया लाभार्थी मास्टर डेटा को सेटिंग्स से डाउनलोड करें"
+
+"Please Download HTTPS Certificate\nfrom Settings"
+"कृपया सेटिंग्स से HTTPS सर्टिफिकेट डाउनलोड करें"
+
+"Dealer Details is not registered at PDS server..."
+"विक्रेता विवरण पीडीएस सर्वर पर पंजीकृत नहीं है."
+
+"Recieved Invalid Quantity From ePDS Server"
+"ईपीडीएस सर्वर से अमान्य मात्रा प्राप्त हुई."
+
+"No Commodities For This Card"
+"इस कार्ड के लिए कोई वस्तु नहीं है."
+
+// no hindi msg
+"Card Type Not Found"
+"Dealer Auth Response File Not Found..."
+// no hindi msg
+
+"Invalid Response Data Recieved..."
+"अवैध प्रतिक्रिया डेटा प्राप्त."
+
+"Invalid Response Data Recieved..."
+"अवैध प्रतिक्रिया डेटा प्राप्त."
+
+"Invalid Response Data Recieved..."
+"अमान्य डेटा प्राप्त हुआ."
+
+"File Not Present in USB...\nPress OK to Exit..."
+"फ़ाइल यूएसबी में मौजूद नहीं है\nबाहर निकलने के लिए ओके दबाएं."
+
+"Updating New Application Failed...\nPress OK to Exit..."
+"नया एप्लिकेशन अपडेट करना विफल हुआ.\nबाहर निकलने के लिए ओके दबाएं."
+
+"USB Not Mounted...\nPress OK to Exit..."
+"USB उपलब्ध नहीं है\n बाहर निकलने के लिए OK दबाएं."
+
+"New Application Copied...\nPress OK to Exit..."
+"नया ऐप कॉपी कर दिया गया है. \nबाहर निकलने के लिए ओके दबाएं."
+
+"File Not Found On Server..."
+"फ़ाइल सर्वर पर उपलब्ध नहीं है"
+
+"Download Unsuccessful...\nPlease Try Again..."
+"डाउनलोड असफल\n कृपया पुनः प्रयास करें."
+
+"Updated With New Application...\nPress OK to Exit..."
+"नया ऐप कॉपी कर दिया गया है \nबाहर निकलने के लिए ओके दबाएं."
+
+"Updating New Application Failed..."
+"नया ऐप अद्यतन विफल हुआ"
+
+"File Not Downloaded Properly...\nPlease Try Again..."// no hindi msg
+
+"Bluetooth Initialising Failed..."
+"ब्लूटूथ प्रारंभ करना विफल ..."
+
+"Bluetooth Scanning Failed..."
+"ब्लूटूथ स्कैनिंग विफल ..."
+
+"Weighing Scale Not Found"
+"वजन पैमाना नहीं मिला"
+
+"Pairing With Weighing Machine Failed..."
+"वजन मशीन के साथ जुड़ना विफल"
+
+"Weighing Machine Not Connected..."
+"वजन मशीन कनेक्ट नहीं है ..."
+
+"IRIS RD IS NOT READY"
+"आईरिस आरडी तैयार नहीं है"
+
+"Start the Biomatiques RD Service"
+"बॉयोमीट्रिक आरडी सेवा शुरू करें."
+
+"IRIS RD IS NOT READY"
+"आईरिएस आरडी शुरू नहीं हुई "
+
+"Start the IRITECH RD Service"
+"IRITECH आरडी सेवा शुरू करें"
+
+"Iris File Not Found...\nPlease Try Again..."// no hindi msg
+
+"Reading Iris Failed...\nPlease Try Again..."
+" आईरिस स्कैनिंग विफल .\nकृपया फिर से प्रयास करें ..."
+
+"Scanned Iris Quality is Poor...\nPlease Try Again..."
+"स्कैन की गई आईरिस गुणवत्ता खराब है\nPlease Try Again..."
+
+"Dealer Auth Response File Not Found..."// no hindi msg
+
+"Invalid Response Data Recieved..."
+"अवैध प्रतिक्रिया डेटा प्राप्त."
+
+"Invalid Response Data Recieved..."
+"अवैध प्रतिक्रिया डेटा प्राप्त."
+
+"Stock Details Insertion Failed"
+"स्टॉक विवरण प्रविष्टि विफल"
+
+"Please Wait...\nUploading Recieved Stock Data to Server..."
+"कृपया प्रतीक्षा करें..\n प्राप्त स्टॉक सर्वर पर अपलोड हो रहा है."
+
+"Invalid Response Data Recieved..."
+"अवैध प्रतिक्रिया डेटा प्राप्त."
+
+"Please Receive the Qty upto Dispatched Qty only"
+"Please Receive the Qty upto Dispatched Qty only"//same msg in both
+
+"Entered Qty is Very Less...\nKindly Check..."
+"दर्ज की गई मात्रा बहुत कम है ... \n कोई जाँच करें।"
+
+"File Not Downloaded"
+"फ़ाइल डाउनलोड नहीं हुआ "
+
+"Server Error"
+"सर्वर एरर "
+
+"Please Select Truck Chit No"
+"कृपया ट्रक चित संख्या का चयन करें"
+
+.ttt->err_info// no hindi msg
+
+"Please Enter RC Number"
+"कृपया कार्ड नंबर दर्ज करें."
+
+"Please enter 12 digit uid number "
+"कृपया 12 अंक यूआईडी नंबर दर्ज करें."
+
+"Invalid UID"
+"अमान्य यूआईडी"
+
+"InvalID Response Parsing"// no hindi msg
+
+"Please Put Paper"
+"कृपया कागज डालें"
+
+"Please Enter Customer Aadhaar No"
+"कृपया ग्राहक आधार संख्या दर्ज करें"
+
+"Please Enter Customer Mobile No"
+"कृपया ग्राहक मोबाइल नंबर दर्ज करें"
+
+"Please Enter OTP"
+"ओटीपी दर्ज करें."
+
+"Mobile Number Updation Request Failed"// no hindi msg
+"Mobile Number Updation Request Successfully Posted"// no hindi msg
+
+"Inspector Details is not registered at AePDS server..."
+"इंस्पेक्टर विवरण सर्वर पर पंजीकृत नहीं हैं"
+
+MobileStatusMessage.toAscii.data //msg from server
+
+"Please Receive the Qty upto ReleasedQty only"
+"कृपया रिलीज़ क्विटी तक मात्रा प्राप्त करें"
+
+"Please Enter Quantity greater than zero"
+"कृपया शून्य से अधिक मात्रा दर्ज करें"
+
+"RD Service Not Started ..."
+"RD सेवा शुरू नहीं हुई"
+
+"RD service discovery Failed"
+"RD सर्विस की जाँच असफल हुआ"
+
+"Invalid XML"// no hindi msg
+"Invalid Response...\nPlease Try Again..."// no hindi msg
+
+
+"Please Scan RC Number"
+"कृपया आर.सी. नंबर स्कैन करे ."
+
+"Please login in online mode"
+"कृपया ऑनलाइन मोड में लॉगिन करें .."
+
+"Offline Data Uploading Failed\nPlease Try again .."
+"ऑफ़लाइन डेटा अपलोडिंग विफल हुई \n कृपया पुनः प्रयास करें .."
+
+"All offline txn records were uploaded to server"
+"सभी ऑफ़लाइन txn रिकॉर्ड सर्वर पर अपलोड किए गए थे"
+
+"Acknowledgement sending Failed\nPlease Try again .."
+"ऑफ़लाइन डेटा अपलोडिंग विफल हुई \n कृपया पुनः प्रयास करें .."
+
+"All offline txn records were uploaded to server"
+"सभी ऑफ़लाइन txn रिकॉर्ड सर्वर पर अपलोड किए गए थे"
+
+"Offline Data Uploading Failed\nPlease Try again .."
+"ऑफ़लाइन डेटा अपलोडिंग विफल हुई \n कृपया पुनः प्रयास करें .."
+
+"Pending data unavailable"
+"लंबित डेटा अनुपलब्ध है"
+
+"Invalid Response\nPlease try again"
+"अमान्य प्रतिक्रिया\nकृपया पुन: प्रयास करें"
+
+"Invalid Response from Server\nPlease try again"
+"सर्वर से अमान्य प्रतिक्रिया\nकृपया पुन: प्रयास करें"
+
+"Offline Data Downloaded Successfully"
+"ऑफ़लाइन डेटा सफलतापूर्वक डाउनलोड किया गया"
+
+"Invalid Response from Server\nPlease try again"
+"सर्वर से अमान्य प्रतिक्रिया\nकृपया पुन: प्रयास करें"
+
+"KeyRegister Data not found\nPlease try again"
+"KeyRegister Data नहीं मिला\nकृपया पुन: प्रयास करें"
+
+"Invalid KeyRegister Data\nPlease try again"
+"अमान्य KeyRegister Data\nकृपया पुन: प्रयास करें"
+
+"Pos Ob Data not found\nPlease try again"
+"PosOb डेटा नहीं मिला\nकृपया पुन: प्रयास करें"
+
+"Invalid PosOb Data found\nPlease try again"
+"अमान्य PosOb डेटा\nकृपया पुन: प्रयास करें"
+
+"Commodity Master Data not found\nPlease try again"
+"कमोडिटी मास्टर डेटा नहीं मिला\nकृपया पुन: प्रयास करें"
+
+"Invalid Commodity Master Data\nPlease try again"
+"अमान्य Commodity Master डेटा\nकृपया पुन: प्रयास करें"
+
+"Scheme Master Data not found"// no hindi msg
+
+"Invalid Scheme Master Data\nPlease try again"
+"अमान्य Scheme Master डेटा\nकृपया पुन: प्रयास करें"
+
+"Invalid Recive Goods Master\nPlease try again"
+"अमान्य Recive Goods Master डेटा\nकृपया पुन: प्रयास करें"
+
+"No Commodities For This Card"
+"इस कार्ड के लिए वस्तु उपलब्ध नहीं है"
+
+// no hindi msg
+"Invalid Response\nPlease try again"
+"Invalid Response from Server\nPlease try again"
+"Invalid Response From Server for Txn Upload"
+"UpdatedReceipts Id not sent From Server for Txn Upload"
+// no hindi msg
+
+"Please Put Paper"
+"कृपया पेपर रोल डालें"
+
+"Unable To Print Recipt due to Low Battery. \n Please charge the Battery"
+"कम बैटरी के कारण रसीद प्रिंट करने में असमर्थ. \n कृपया बैटरी चार्ज करें"
+
+"Commodity Balance Qty not available for this Entered Card"
+"इस दर्ज कार्ड के लिए कमोडिटी बैलेंस मात्रा उपलब्ध नहीं है"
+
+"%s Commodity Closing balance not available for this shop",ui->tblCommIssue->itemi,0->text.toAscii.data
+"इस दुकान के लिए कमोडिटी समापन शेष उपलब्ध नहीं है"
+
+"Network Avalible\nPlease login by dealer authentication"
+"नेटवर्क उपलब्ध \nडीलर प्रमाणीकरण द्वारा लॉगिन करें"
+
+"Offline Data Not available"
+"ऑफ़लाइन डेटा उपलब्ध नहीं है"
+
+"Unable To Print Recipt due to Low Battery. \n Please charge the Battery"
+"कम बैटरी के कारण रसीद प्रिंट करने में असमर्थ. \n कृपया बैटरी चार्ज करें"
+
+"Unable To Print Recipt due to Low Battery. \n Please charge the Battery"
+"कम बैटरी के कारण रसीद प्रिंट करने में असमर्थ. \n कृपया बैटरी चार्ज करें"
+
+"Invalid Txn's Time"// no hindi msg
+
+"Txn's are allowed from %s\n",query.value0.toString.toAscii.data
+"से लेन-देन की अनुमति है"
+
+"Month Changed\nPlease login by authentication"
+"महीना बदल गया\nकृपया प्रमाणीकरण द्वारा लॉगिन करें"
+
+"Offline time duration completed\nLogin by authentication"
+"ऑफ़लाइन समय अवधि पूरी हुई\nकृपया प्रमाणीकरण द्वारा लॉगिन करें"
+
+"No Network and Offline Login data not Available"
+"कोई नेटवर्क और ऑफ़लाइन लॉगिन डेटा उपलब्ध नहीं है"
+
+"No Network and Offline Login data not Available"
+"कोई नेटवर्क और ऑफ़लाइन लॉगिन डेटा उपलब्ध नहीं है"
+
+"Enter Valid Password"
+"मान्य पासवर्ड दर्ज करें"
+
+"Month Changed\nPlease login by authentication"
+"महीना बदल गया\nकृपया प्रमाणीकरण द्वारा लॉगिन करें"
+
+"Offline time duration completed\nLogin by authentication"
+"ऑफ़लाइन समय अवधि पूरी हुई\nकृपया प्रमाणीकरण द्वारा लॉगिन करें"
+
+"Offline Data not Avaliable"
+"ऑफ़लाइन डेटा उपलब्ध नहीं है"
+
+"Offline state info not Avaliable"// no hindi msg
+
+"No Network\nPlease select \"Card No.\" and Enter \"Card No.\" for doing TXN in OFFLINE"
+"कोई नेटवर्क \n कृपया न चुनें \"कार्ड नंबर\" और ऑफ़लाइन होने के लिए TXN करने के लिए \"कार्ड नंबर\" दर्ज करें"
+
+"Offline Data Uploading Failed\nPlease Try again .."
+"ऑफ़लाइन डेटा अपलोडिंग विफल हुई \n कृपया पुनः प्रयास करें .."
+
+"All offline txn records were uploaded to server"
+"सभी ऑफ़लाइन txn रिकॉर्ड सर्वर पर अपलोड किए गए थे"
+
+"All offline txn records were uploaded to server"
+"सभी ऑफ़लाइन txn रिकॉर्ड सर्वर पर अपलोड किए गए थे"
+
+"Offline Data Uploading Failed\nPlease Try again .."
+"ऑफ़लाइन डेटा अपलोडिंग विफल हुई \n कृपया पुनः प्रयास करें .."
+
+// no hindi msg
+"All offline txn records were uploaded to server"
+"Invalid Fps Id"
+"Invalid Response for Receive Goods Upload"
+"TruckChitList not found for Receive Goods Upload"
+,"Unable to upload.Please check connectivity\nPlease Try again\nError Code:%d",RetVal
+
+"PDS Distribution Stoped"
+"Distribution Stoped"
+"Invalid Response\nPlease try again"
+"Invalid Response from Server\nPlease try again"
+"Invalid Response From Server for Txn Upload"
+"UpdatedReceipts Id not sent From Server for Txn Upload"
+// no hindi msg
+
+"Upload all pending Txn's and Try for Patch update"
+"सभी लंबित Txn को अपलोड करें और पैच अपडेट के लिए प्रयास करें"
+
+"Please Wait...\nUploading Pending CB..."
+"कृपया प्रतीक्षा करें.\nलंबित अभिलेख अपलोड हो रहा है. ."
+
+"Please Wait...\nUploading Pending Records..."
+"कृपया प्रतीक्षा करें.\nलंबित अभिलेख अपलोड हो रहा है. ."
+
+"Going for Manual Transaction ..."
+"मैनुअल लेनदेन के लिए जा रहा है ..."
+
+"Reciept/Bill Amount is..."
+"रसीद /विधेयक राशि.."
+
+"Please Wait...\nCommodity Qty Uploading to Server"
+"सर्वर पर कमोडिटी विवरण भेज रहा है"
+
+"Please Wait...\nCommodity Qty Uploading to Server"
+"कृपया प्रतीक्षा करें.\nकमोडिटी मात्रा अपलोड हो रहा है. "
+
+"Please Wait...\nAuthenticating Finger Print..."
+"कृपया प्रतीक्षा करें.\nउंगली की छाप प्रमाणित हो रहा है."
+
+"Please Wait...\nAuthenticating Finger Print..."
+"कृपया प्रतीक्षा करें.\nउंगली की छाप प्रमाणित हो रहा है."
+
+"Please Wait...\nAuthenticating Dealer..."
+"कृपया प्रतीक्षा करें..\n विक्रेता प्रमाणीकरण हो रहा है."
+
+"Please Wait...\nDownloading Members Details..."
+"कृपया प्रतीक्षा करें.\nसदस्यों विवरण डाउनलोड हो रहा है. ."
+
+"Please Wait...\nScanning For Devices..."
+"कृपया प्रतीक्षा करें\nडिवाइसेज की खोज चल रही है"
+
+"Please Place IRIS Scanner\nnear \"Left Eye\""
+"कृपया आईरिस स्कैनर पर बाएं नेत्र रखें."
+
+"Please Place IRIS Scanner\nnear \"Right Eye\""
+"कृपया आईरिस स्कैनर पर दाहिना नेत्र रखें"
+
+"Please Wait...\nDownloading Details From Server..."
+"कृपया प्रतीक्षा करें..\n सर्वर से विवरण डाउनलोड हो रहा है"
+
+"Please Wait..."
+"कृपया प्रतीक्षा करें..."
+
+"कृपया ग्राहक अपनी उंगली स्कैनर पर लगाए"//
+"Please Place Customer Finger on Scanner"
+
+"कृपया ग्राहक अपनी उंगली स्कैनर पर लागए"
+"Please Place Customer Finger on Scanner"
+
+"लेनदेन सफल था ... \nकृपया प्रतीक्षा करें,रसीद छपाई हो रही है"
+"Transaction Successfull...\nPrinting, Please Wait..."
+
+
+"Please Wait...\nDownloading Dealer Details..."
+"कृपया प्रतीक्षा करें.\nविक्रेता विवरण डाउनलोड हो रहा है."
+
+"Please Wait...\nPairing with Weighing Machine..."
+"कृपया प्रतीक्षा करें ... वजन मशीन के साथ \n जोड़ा जा रहा है"
+
+"Please Wait...\nAuthenticating Iris..."
+"एक आंख का प्रमाणित हो रहा है.\nकृपया प्रतीक्षा करें."
+
+"Downloading Hawker Details..."
+"हॉकर विवरण डाउनलोड कर रहा है ..."
+
+"Please Wait...Printing..."
+"कृपया प्रतीक्षा करें ... मुद्रण..."
+
+"कृपया विक्रेता अपनी उंगली स्कैनर पर लगाए"
+"Please Place Dealer Finger on Scanner"
+
+"Please Wait... \nMobile Number is Updating"
+"कृपया प्रतीक्षा करें ... \nमोबाइल नंबर अपडेट हो रहा है"
+
+"Logout ... \n Please wait ..."// no hindi msg
+
+"Please Place Finger On Scanner"
+"कृपया उंगली स्कैनर पर रखें"
+
+"Please place two fingers on the \n scanner one after the other"
+"कृपया एक के बाद एक दो उंगलियों को \n स्कैनर पर रखें"
+
+"Please Place 2 Finger On Scanner"
+"कृपया दूसरा उंगली स्कैनर पर रखें.."
+
+"Requesting OTP...\n Please Wait ..."
+"OTP केलिए रिक्वेस्ट .\nकृपया प्रतीक्षा करें.."
+
+"Please Wait..."
+"कृपया प्रतीक्षा करें..."
+
+"Uploading Pending CB \n Please Wait ...."// no hindi msg
+"Uploading Pending Records \n Please Wait ...."// no hindi msg
+
+"Please Wait...\nAuthenticating Dealer..."
+"कृपया प्रतीक्षा करें..\nडीलर प्रमाणीकरण हो रहा है.."
+
+"Please Wait...\nUpdating New Application..."
+"कृपया प्रतीक्षा करें..\nनया ऐप अपडेट किया जा रहा है."
+
+"Please wait...\nDownloading Menus"
+"कृपया प्रतीक्षा करें.\n मेनू डाउनलोड हो रहा है."
+
+"Please Wait...\nBluetooth Initialising..."
+"कृपया प्रतीक्षा करें ... \n ब्लूटूथ प्रारंभ कर रहा है ..."
+
+"अपनी अंगुली को स्कैनर पर रखें" // no eng msg
+
+
+
+
+

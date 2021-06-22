@@ -1,0 +1,59 @@
+popup_msg *dlgPopup1 = new popup_msg(this);
+popup_msg *dlgPopup1 = new popup_msg(this);
+popup_msg *dlgPopup1 = new popup_msg(this);
+popup_msg *dlgPopup1 = new popup_msg(this);
+popup_msg *dlgPopup1 = new popup_msg(this);
+popup_msg *dlgPopup1 = new popup_msg(this);
+popup_msg *dlgPopup1 = new popup_msg(this);
+popup_msg *dlgPopup1 = new popup_msg(this);
+popup_msg *dlgPopup1 = new popup_msg(this);
+popup_msg *dlgPopup1 = new popup_msg(this);
+popup_msg *dlgPopup1 = new popup_msg(this);
+popup_msg *dlgPopup1 = new popup_msg(this);
+popup_msg *dlgPopup1 = new popup_msg(this);
+popup_msg *dlgPopup1 = new popup_msg(this);
+popup_msg *dlgPopup1 = new popup_msg(this);
+popup_msg *dlgPopup1 = new popup_msg(this);
+popup_msg *dlgPopup1 = new popup_msg(this);
+popup_msg *dlgPopup1 = new popup_msg(this);
+popup_msg *dlgPopup1 = new popup_msg(this);
+
+popup_msg *dlgPopup2 = new popup_msg(this);
+popup_msg *dlgPopup2 = new popup_msg(this);
+popup_msg *dlgPopup2 = new popup_msg(this);
+popup_msg *dlgPopup2 = new popup_msg(this);
+popup_msg *dlgPopup2 = new popup_msg(this);
+popup_msg *dlgPopup2 = new popup_msg(this);
+popup_msg *dlgPopup2 = new popup_msg(this);
+popup_msg *dlgPopup2 = new popup_msg(this);
+popup_msg *dlgPopup2 = new popup_msg(this);
+popup_msg *dlgPopup2 = new popup_msg(this);
+popup_msg *dlgPopup2 = new popup_msg(this);
+popup_msg *dlgPopup2 = new popup_msg(this);
+popup_msg *dlgPopup2 = new popup_msg(this);
+popup_msg *dlgPopup2 = new popup_msg(this);
+popup_msg *dlgPopup2 = new popup_msg(this);
+popup_msg *dlgPopup2 = new popup_msg(this);
+popup_msg *dlgPopup2 = new popup_msg(this);
+popup_msg *dlgPopup2 = new popup_msg(this);
+popup_msg *dlgPopup2 = new popup_msg(this);
+popup_msg *dlgPopup2 = new popup_msg(this);
+
+popup_msg *dlgPopup3 = new popup_msg(this);
+popup_msg *dlgPopup3 = new popup_msg(this);
+popup_msg *dlgPopup3 = new popup_msg(this);
+popup_msg *dlgPopup3 = new popup_msg(this);
+popup_msg *dlgPopup3 = new popup_msg(this);
+
+
+popup_msg *dlgPopupFusion = new popup_msg(this);
+
+popup_msg *objPopup = new popup_msg(this);
+popup_msg *objPopup = new popup_msg(this);
+popup_msg *objPopup = new popup_msg(this);
+
+popup_msg *dlgPopup = new popup_msg(this);
+popup_msg *dlgPopup = new popup_msg(this);
+popup_msg *dlgPopup = new popup_msg(this);
+
+
